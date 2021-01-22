@@ -1,0 +1,116 @@
+p.formTest {
+    color: red
+    
+    
+  }
+  h2 {
+color: rgba(red, green, blue, alpha)
+
+
+  }
+  .formTest {
+      margin: 3em
+  }
+  .formTest {
+    display : flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+  }
+
+  #Friends {
+    border-color: red 2px solid;
+    border-style: dashed;
+    border-width:thick;
+    border-radius:initial;
+    align-items: flex-start;
+    
+  }
+  #theoffice{
+    
+      grid-column-start: 4;
+      grid-column-end: ten;
+      grid-row-start: row3-start;
+      grid-row-end: 9;
+    
+  }
+
+  * {
+    color:#FFF #FFFFFF
+    text-decoreation:lemonchiffon;
+
+
+  }
+  p {
+   height:1cm;
+   width:30cm;
+   display: inline;
+   
+  }
+
+  li[class] {
+    font:status-bar;
+    max-width:40%;
+    max-height:20%;
+    display: none;
+}
+
+button:hover {
+    color: blue;
+  }
+
+  a:active { 
+      color: red; /* Set color to red */
+    }
+
+    h1, h2, h3, h4, h5, h6 { font-family: helvetica; }
+
+    div.foodpreference {
+        text-align: left;
+        width: 100%;
+        border: 2px solid hsla(hue, saturation, lightness, alpha);
+        color: white;
+        background-color: lightseagreen;
+        padding: 0.8em 0.8em 0.6em;
+      }
+
+      div.relative {
+        position: relative;
+        width: 40px;
+        height: 20px;
+        border: 3px solid pink
+      }
+      
+      div.absolute {
+        position: absolute;
+        top: 40px;
+        right: 0;
+        width: 100px;
+        height: 500px;
+        border: 10px solid greenyellow;
+      }
+      
+
+      ul > li {
+        border-top: 5px solid hsl(hue, saturation, lightness);
+        border-top: 5px solid orange;
+    }  
+      
+    .favoritestyled p {
+        color: plum; /* Set color to plum */
+       
+    }  
+
+    h1 + p {
+        font-weight: bold;
+        background-color: grey;
+        color: #fff;
+        
+    }  
+    
+    h1 ~ img {
+        font-weight: bold;
+        background-color: green;
+        color: #fff;
+        width: 30cm;
+
+    }
